@@ -1,6 +1,6 @@
 # Level-1 / Lesson 1 / Project 1: html 1 and css 1
 
-### Skills for this project (please check off the skills as they are mastered by the student):
+### Skills for this project (please check off the skills the student covered during this project):
 
 **HTML**
  1. [ ] html tags
