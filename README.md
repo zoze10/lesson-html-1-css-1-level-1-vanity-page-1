@@ -22,6 +22,8 @@
   3. [ ] google
 
 ### Project details
-  1. Project name: 
+  1. Project name: prairie dogs!!!
   2. Project summary:
+  this is a website about all of the great things about prairie dogs
+ 
   3. Project coordinator: 
