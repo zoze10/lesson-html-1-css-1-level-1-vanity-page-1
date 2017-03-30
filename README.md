@@ -25,8 +25,8 @@
   1. Project name: prairie dogs!!!
   2. Project summary:
   this is a website about all of the great things about prairie dogs.
-    1. they are suuuuuuper cute
-    2. their squeal is like Eeeeee eeeeeeee
+    1. They are suuuuuuper cute
+    2. Their squeal is like eeeeeeeeeeeeee
     3. I love the way they repeatedly pop out of their holes
  
   3. Project coordinator: 
